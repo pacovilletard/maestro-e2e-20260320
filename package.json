@@ -1,0 +1,9 @@
+{
+  "name": "maestro-e2e-20260320",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --eval \"import('./src/greet.js').then(({ greet }) => { if (greet('world') !== 'Hello, world!') process.exit(1); console.log('ok'); })\""
+  }
+}
