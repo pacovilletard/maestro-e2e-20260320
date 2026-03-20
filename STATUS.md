@@ -1,0 +1,2 @@
+- Verifies the Daytona smoke flow can load Maestro credentials from `auth.json` for authenticated execution.
+- Confirms the manual run `manual-smoke-authjson` completes the auth-path check without credential bootstrap failures.
