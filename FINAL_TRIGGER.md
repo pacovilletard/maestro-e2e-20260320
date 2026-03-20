@@ -1,0 +1,2 @@
+- Confirmed the Trigger.dev worker token has been refreshed successfully.
+- Verified the refreshed Trigger.dev worker token is now in effect.
