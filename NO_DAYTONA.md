@@ -1,0 +1,2 @@
+- The execution path is Trigger-only.
+- Daytona is not used in the Trigger-only execution path.
